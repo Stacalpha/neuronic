@@ -1,8 +1,6 @@
-*__This is a only a template README. To be editted soon...__*
+# Neuronic
 
-# Project Title
-
-One Paragraph of project description goes here
+Neuronic a app designed for playing music from multiple cloud storage sources (such as Google Drive, DropBox, and Onedrive) as well as locally on the device.
 
 ## Getting Started
 
