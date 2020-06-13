@@ -2,7 +2,7 @@
   "name": "neuronic",
   "productName": "neuronic",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Cross platform application for playing media from GoogleDrive, OneDrive, Dropbox, and locally",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
@@ -12,7 +12,7 @@
     "lint": "eslint --ext .ts ."
   },
   "keywords": [],
-  "author": "deji",
+  "author": "Deji Adegbite",
   "license": "MIT",
   "config": {
     "forge": {
