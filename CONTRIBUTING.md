@@ -1,7 +1,8 @@
 # How to contribute #
 
 ## Workflow
-This project follows the [git-flow](https://nvie.com/posts/a-successful-git-branching-model/) workflow.    
+This project follows the [git-flow](https://nvie.com/posts/a-successful-git-branching-model/) workflow.   
+  
 **Main branches:**
 1. master
 2. devel   
