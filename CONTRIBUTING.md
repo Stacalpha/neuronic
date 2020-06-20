@@ -4,11 +4,12 @@
 This project follows the [git-flow](https://nvie.com/posts/a-successful-git-branching-model/) workflow.    
 **Main branches:**
 1. master
-2. devel
+2. devel   
 **Supporting branches:**
 1. Feature branches: `feature/*`
 2. Release branches: `release/*`
 3. Hotfix branches: `fix/*`
+4. Refactoring, documentation, etc: `chore/*`
 
 ## Reporting issues ##
 We use the [GitHub issue tracker](https://github.com/uxFeranmi/neuronic/issues)
