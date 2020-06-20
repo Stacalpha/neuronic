@@ -5,6 +5,7 @@ This project follows the [git-flow](https://nvie.com/posts/a-successful-git-bran
 **Main branches:**
 1. master
 2. devel   
+
 **Supporting branches:**
 1. Feature branches: `feature/*`
 2. Release branches: `release/*`
